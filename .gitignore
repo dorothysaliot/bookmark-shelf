@@ -25,3 +25,7 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+infra/.terraform/
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+infra/render.env.example
